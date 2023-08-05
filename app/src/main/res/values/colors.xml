@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!--IMC-->
+    <color name="Background_IMC">#100B0B</color>
+    <color name="Background_Component_IMC">#292828</color>
+    <color name="Background_Component_Select_IMC">#4A4A4A</color>
+    <color name="Tint_IMC">#FB0000</color>
+    <color name="border_IMC">#F83232</color>
+    <color name="text_IMC">#F69999</color>
+
+    <!--Calculadora-->
+    <color name="Background_Calculator">#271B1B</color>
+    <color name="Background_Component_Calculator">#373535</color>
+    <color name="Background_Component_Select_Calculator">#433D3D</color>
+    <color name="Tint_Calculator">#FB0000</color>
+    <color name="border_Calculator">#FA2323</color>
+    <color name="text_Calculator">#FFBBBB</color>
+</resources>

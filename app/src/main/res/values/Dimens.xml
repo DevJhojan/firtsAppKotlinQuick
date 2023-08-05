@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_With_Calculator">90dp</dimen>
+    <dimen name="button_Height_Calculator">85dp</dimen>
+    <dimen name="button_text_Calculator">32dp</dimen>
+</resources>

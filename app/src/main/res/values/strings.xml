@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">wCalculator</string>
+    <string name="IMC">IMC</string>
+    <string name="Calculator">Calculadora</string>
+    <string name="Divices">Conbersor de Divisas</string>
+    <!--IMC-->
+    <string name="Male">Hombre</string>
+    <string name="Female">Mujer</string>
+
+</resources>
