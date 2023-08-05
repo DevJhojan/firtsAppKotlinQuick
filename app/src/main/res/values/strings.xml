@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">Calcualtors</string>
-    <string name="IMC">IMC</string>
-    <string name="Calculator">Calculadora</string>
-    <string name="Divices">Divisa</string>
-    <!--IMC-->
-    <string name="Male">Hombre</string>
-    <string name="Female">Mujer</string>
-</resources>
